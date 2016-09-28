@@ -24,3 +24,7 @@ tr {
   font-weight: bold;
   color: #CD8614;
 }
+
+a:visited {
+  color: #FCFFB8;
+}
