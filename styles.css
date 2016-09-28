@@ -15,3 +15,7 @@ footer {
 th {
   background-image: url("http://barkpost.com/wp-content/uploads/2015/02/doga.jpg");
 }
+
+tr {
+  font-family: Courier;
+}
