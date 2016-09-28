@@ -38,3 +38,9 @@ a:visited {
     width: 100%;
   }
 }
+
+@media screen and (min-width: 400px) {
+  table {
+    background-color: white;
+  }
+}
