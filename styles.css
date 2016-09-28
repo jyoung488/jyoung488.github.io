@@ -32,3 +32,9 @@ a:visited {
 #Small {
   font-size: 0.5em;
 }
+
+@media screen and (max-width: 800px) {
+  img {
+    width: 100%;
+  }
+}
