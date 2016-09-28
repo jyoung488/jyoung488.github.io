@@ -7,3 +7,7 @@ address {
   border: 1px solid black;
   margin: 25px;
 }
+
+footer {
+  text-align: center;
+}
