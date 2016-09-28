@@ -19,3 +19,8 @@ th {
 tr {
   font-family: Courier;
 }
+
+.Important {
+  font-weight: bold;
+  color: #CD8614;
+}
