@@ -1,3 +1,50 @@
 body {
-  background: blue;
+  background: #D3D3D3;
+}
+
+address {
+  padding: 10px 5px 10px 5px;
+  border: 1px solid black;
+  margin: 25px;
+}
+
+footer {
+  text-align: center;
+}
+
+th {
+  background-image: url("http://barkpost.com/wp-content/uploads/2015/02/doga.jpg");
+}
+
+tr {
+  font-family: Courier;
+}
+
+.Important {
+  font-weight: bold;
+  color: #CD8614;
+}
+
+a:visited {
+  color: #FCFFB8;
+}
+
+#Small {
+  font-size: 0.5em;
+}
+
+@media screen and (max-width: 800px) {
+  img {
+    width: 100%;
+  }
+}
+
+@media screen and (min-width: 400px) {
+  table {
+    background-color: white;
+  }
+}
+
+table, tr, th, td {
+  border: 1px solid black;
 }
