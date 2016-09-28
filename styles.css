@@ -28,3 +28,7 @@ tr {
 a:visited {
   color: #FCFFB8;
 }
+
+#Small {
+  font-size: 0.5em;
+}
