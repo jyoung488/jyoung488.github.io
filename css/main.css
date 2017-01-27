@@ -1963,7 +1963,7 @@
 	button,
 	.button {
 		background-color: #219C8A;
-		color: #fff !important;
+		color: #FFF5E9 !important;
 	}
 
 		input[type="submit"]:hover,
@@ -2896,7 +2896,7 @@
 
 		.wrapper.style1 {
 			background-color: #FFF5E9;
-			color: #999999;
+			color: #E52771;
 		}
 
 			.wrapper.style1 input, .wrapper.style1 select, .wrapper.style1 textarea {
@@ -2916,7 +2916,7 @@
 			}
 
 			.wrapper.style1 h1, .wrapper.style1 h2, .wrapper.style1 h3, .wrapper.style1 h4, .wrapper.style1 h5, .wrapper.style1 h6 {
-				color: #000;
+				color: #E52771;
 			}
 
 			.wrapper.style1 blockquote {
@@ -3108,7 +3108,7 @@
 
 		.wrapper.style2 {
 			background-color: #020001;
-			color: #aed6f1;
+			color: #FFF5E9;
 		}
 
 			.wrapper.style2 input, .wrapper.style2 select, .wrapper.style2 textarea {
@@ -3128,7 +3128,7 @@
 			}
 
 			.wrapper.style2 h1, .wrapper.style2 h2, .wrapper.style2 h3, .wrapper.style2 h4, .wrapper.style2 h5, .wrapper.style2 h6 {
-				color: #fff;
+				color: #FFF5E9;
 			}
 
 			.wrapper.style2 blockquote {
@@ -3730,11 +3730,11 @@
 		#banner h1 {
 			font-size: 4em;
 			margin-bottom: .25em;
-			color: #FFF;
+			color: #FFF5E9;
 		}
 
 		#banner p {
-			color: rgba(255, 255, 255, 0.85);
+			color: #FFF5E9;
 			font-size: 1.75em;
 		}
 
