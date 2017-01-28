@@ -4,4 +4,4 @@
 
 - Add homepage with summary and contact info
 - Add projects
-- Add Jekyll theme
+- Add CSS theme
